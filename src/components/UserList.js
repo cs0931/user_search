@@ -23,9 +23,7 @@ const UserList = (props) => {
   };
   return (
     <div className="main">
-      <h2>
-        User List
-      </h2>
+    
       <div className="ui search">
         <div className="ui icon input">
           <input
